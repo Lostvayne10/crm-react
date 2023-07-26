@@ -1,0 +1,27 @@
+{
+  "clientes": [
+    {
+      "nombre": "Juan Pedro",
+      "empresa": "Codigo Con Juan",
+      "email": "juan@juan.com",
+      "telefono": "102013313",
+      "notas": "otra prueba de comentario",
+      "id": 1
+    },
+    {
+      "id": 5,
+      "nombre": "Pedro",
+      "telefono": 1398198938,
+      "email": "pedro@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "nombre": "Alex",
+      "empresa": "Michis Especiales",
+      "email": "correo@correo.com",
+      "telefono": "1234567890",
+      "notas": "es un buen cliente y me la pela",
+      "id": 6
+    }
+  ]
+}
